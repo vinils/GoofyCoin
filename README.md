@@ -1,0 +1,2 @@
+# GoofyCoin
+Centralized Digital currency

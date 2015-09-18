@@ -1,0 +1,5 @@
+Z:\Pessoal\Planos\Estudo\Projetos\GoofyCoin\GoofyCoin\GoofyCoin\obj\Debug\ResolveAssemblyReference.cache
+Z:\Pessoal\Planos\Estudo\Projetos\GoofyCoin\GoofyCoin\GoofyCoin\bin\Debug\GoofyCoin.exe
+Z:\Pessoal\Planos\Estudo\Projetos\GoofyCoin\GoofyCoin\GoofyCoin\bin\Debug\GoofyCoin.pdb
+Z:\Pessoal\Planos\Estudo\Projetos\GoofyCoin\GoofyCoin\GoofyCoin\obj\Debug\GoofyCoin.exe
+Z:\Pessoal\Planos\Estudo\Projetos\GoofyCoin\GoofyCoin\GoofyCoin\obj\Debug\GoofyCoin.pdb

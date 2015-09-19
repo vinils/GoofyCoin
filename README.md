@@ -1,2 +1,2 @@
 # GoofyCoin
-Centralized Digital currency..
+Centralized Digital currency
